@@ -1,0 +1,12 @@
+body {
+  background: pink;
+  color: darkred;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+}
+.avatar {
+  width: 350px;
+  border-radius: 50%;
+  box-shadow: 4px 4px 14px black;
+}
